@@ -1,0 +1,1 @@
+npx create-next-app@latest ez-approve_frontend --typescript --tailwind --eslint --app --src-dir=false --import-alias=@ --use-npm

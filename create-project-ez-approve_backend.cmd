@@ -1,0 +1,1 @@
+npx @nestjs/cli new ez-approve_backend --package-manager npm
